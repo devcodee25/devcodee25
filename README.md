@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:2d2d44,100:3d3d5c&height=180&section=header&text=Cristian%20Tirado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=hardware%20tinkerer%20%C2%B7%20troubleshooter%20%C2%B7%20occasional%20programmer&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:2d2d44,100:3d3d5c&height=180&section=header&text=Cristian%20Tirado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Hardware%20%C2%B7%20Systems%20%C2%B7%20Troubleshooting%20%C2%B7%20Development&descAlignY=62&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8A8AFF&center=true&vCenter=true&width=520&lines=Taking+PCs+apart+since+forever.;Fixing+what%27s+broken%2C+building+what%27s+not.;BSIT+student+%7C+Philippines." alt="Typing SVG" />
 
