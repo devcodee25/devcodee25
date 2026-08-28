@@ -6,8 +6,8 @@
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44)
-![Static Badge](https://img.shields.io/badge/BS_Information_Technology-1e1e2f?style=flat-square&label=🎓&labelColor=1e1e2f&color=2d2d44)
+<img src="https://img.shields.io/badge/Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44"/>
+<img src="https://img.shields.io/badge/BS_Information_Technology-1e1e2f?style=flat-square&label=🎓&labelColor=1e1e2f&color=2d2d44"/>
 
 </div>
 
@@ -15,7 +15,9 @@
 
 ## About Me
 
-I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since. Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
+I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since.
+
+Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, and reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
 
 Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
 
@@ -26,16 +28,32 @@ Programming came later, almost as a side effect of wanting to build small tools 
 ## Tech Stack
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Hardware.+Software.+Code.+In+that+order." alt="Tech Stack Typing SVG" />
+
+**Hardware & Systems**
+
+🖥️ PC Hardware · 🔧 Hardware Troubleshooting · ⚙️ BIOS/UEFI · 💾 Storage · 🪟 Windows
+
+<br><br>
+
+**Software & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="32"/>
+
+<br><br>
+
+**Programming**
+
+<img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="32"/>
+
 </div>
 
 <br>
 
-| Category | Tools & Languages |
-|---|---|
-| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="28"/> |
-| **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
-| **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
+<div align="center">
+
+> **Hardware. Software. Code. In that order.**
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -43,30 +61,55 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## What I Like
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Curiosity+first.+Everything+else+follows." alt="What I Like Typing SVG" />
-</div>
-
-<br>
-
 | Category | Details |
 |---|---|
-| **Building & Upgrading** | Putting PCs together part by part, and improving them over time |
+| **Building & Upgrading** | Putting PCs together part by part and improving them over time |
 | **Troubleshooting** | Digging into a problem until I find what's actually causing it |
 | **Understanding Systems** | Learning how things work under the hood, not just using them |
-| **Experimenting** | Trying new tools and setups without needing a specific reason |
+| **Experimenting** | Trying new hardware, software, tools, and setups |
+| **Learning by Doing** | Figuring things out by actually testing, breaking, and fixing them |
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
+
+## Things I've Built
+
+### 🧰 MABULI Leather Works
+
+A mobile application built around a leather restoration business.
+
+**React Native · Expo · Firebase · Node.js · Express**
+
+---
+
+### 🌐 Tourism Management System
+
+A web-based tourism management system created as a school project.
+
+**PHP · MySQL · HTML · CSS · JavaScript**
+
+---
+
+### 🍳 Dear Mom
+
+A recipe application created to organize and explore recipes in a simple way.
+
+**React · JavaScript**
+
+---
+
+### 🎮 JFighter
+
+A Java desktop game project built while exploring Java and JavaFX.
+
+**Java · JavaFX**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
 </div>
 
 ## Certifications
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Computer+Hardware+Basics;Foundations+of+IT+Infrastructure;Critical+Infrastructure+Protection" alt="Certs Typing SVG" />
-</div>
-
-<br>
 
 | Category | Certification |
 |---|---|
@@ -80,12 +123,6 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## Currently Learning
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Always+got+something+new+open+in+a+tab." alt="Currently Learning Typing SVG" />
-</div>
-
-<br>
-
 | Category | Focus |
 |---|---|
 | **Networking** | IP addressing, subnetting, LAN troubleshooting |
@@ -97,14 +134,50 @@ Programming came later, almost as a side effect of wanting to build small tools 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
 </div>
 
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devcodee25&show_icons=true&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF&text_color=ffffff&icon_color=8A8AFF" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcodee25&layout=compact&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF&text_color=ffffff" height="165"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcodee25&hide_border=true&background=1e1e2f&ring=8A8AFF&fire=8A8AFF&currStreakLabel=8A8AFF&sideLabels=ffffff&dates=ffffff" width="55%"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
+
 ## Connect
 
 <div align="center">
 
-<a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-devcodee25-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Email-cjptirado%40gmail.com-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-your--profile-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/devcodee25">
+<img src="https://img.shields.io/badge/GitHub-devcodee25-2d2d44?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:cjptirado@gmail.com">
+<img src="https://img.shields.io/badge/Email-cjptirado%40gmail.com-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-your--profile-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
+<br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3d5c,50:2d2d44,100:1e1e2f&height=100&section=footer" width="100%"/>
+
+</div>
