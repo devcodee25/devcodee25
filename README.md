@@ -1,106 +1,90 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Cristian%20John%20Pol%20Tirado&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%7C%20Tech%20Support%20%2B%20Full-Stack%20Dev&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:2d2d44,100:3d3d5c&height=180&section=header&text=Cristian%20Tirado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=hardware%20tinkerer%20%C2%B7%20troubleshooter%20%C2%B7%20occasional%20programmer&descAlignY=62&descSize=15" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8A8AFF&center=true&vCenter=true&width=520&lines=Taking+PCs+apart+since+forever.;Fixing+what%27s+broken%2C+building+what%27s+not.;BSIT+student+%7C+Philippines." alt="Typing SVG" />
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Troubleshooting+PCs+since+day+one.;Now+building+full-stack+apps+too.;Currently+chasing+a+Tech+Support+OJT." alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/📍_Quezon_City,_PH-2C5364?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/🎓_BSIT_@_New_Era_University-2C5364?style=for-the-badge&labelColor=0F2027" />
-<img src="https://img.shields.io/badge/🟢_Open_to_OJT-2C5364?style=for-the-badge&labelColor=0F2027" />
+![Static Badge](https://img.shields.io/badge/Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44)
+![Static Badge](https://img.shields.io/badge/BS_Information_Technology-1e1e2f?style=flat-square&label=🎓&labelColor=1e1e2f&color=2d2d44)
 
 </div>
 
 <br>
 
-## `01` — About Me
+## About Me
 
-I split my time between two worlds: keeping computers alive and building software from scratch.
+I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since. Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
 
-- 🖥️&nbsp; Hands-on with **hardware/software troubleshooting**, Windows installs, and remote support (TeamViewer / AnyDesk)
-- 🌐&nbsp; Comfortable with **basic networking** — IP addressing, subnetting, and LAN troubleshooting via Cisco Packet Tracer
-- 🧩&nbsp; Build **full-stack web & mobile apps** on the side — React, React Native, Laravel, Node.js
-- 🎯&nbsp; Currently aiming for an **OJT in Technical Support**
+Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
 
 <br>
 
-## `02` — Tech Stack
+## Tech Stack
 
-<div align="center">
+**Hardware & Systems**
 
-**Support & Networking**
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/PC_Building-2d2d44?style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Hardware_Troubleshooting-2d2d44?style=for-the-badge" height="28"/>
 
-<img src="https://skillicons.dev/icons?i=windows,cisco&theme=dark" />
+**Software & Tools**
 
-**Development**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="42"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,java,python&theme=dark" />
+**Programming**
 
-**Database & Deployment**
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,vercel&theme=dark" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="42"/>
 
 <br>
 
-## `03` — Featured Projects
+## What I Like
+
+- Building and upgrading PCs, part by part
+- Digging into a problem until I find what's actually causing it
+- Understanding how systems work under the hood, not just using them
+- Experimenting with new tools and setups without a specific reason
+- Putting together small apps just to see them work
+
+<br>
+
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧵 MABULI Leather Works**
-Mobile app for a leather goods business
-`React Native` `Expo` `Node.js` `Firebase`
+**MABULI Leather Works**
+A mobile app I built for a small leather goods business — cross-platform, tied to a live backend.
+`React Native` `Expo` `Firebase`
+[repo →](#)
 
 </td>
 <td width="50%" valign="top">
 
-**📦 NextStock**
-Inventory management system
-`Laravel` `MySQL` `React.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🗺️ Tourism Management System**
-Full web-based tourism platform
-`PHP` `MySQL` `HTML/CSS/JS`
-
-</td>
-<td width="50%" valign="top">
-
-**🏠 Rental Management System**
-Web-based rental tracking system
-`PHP` `MySQL`
+**Tourism Management System**
+A web system for handling tourism-related records and info, built end to end.
+`PHP` `MySQL` `JavaScript`
+[repo →](#)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🍳 Dear Mom**
-Mobile recipe app
+**Dear Mom**
+A small recipe app — part practice project, part personal.
 `React.js`
+[repo →](#)
 
 </td>
 <td width="50%" valign="top">
 
-**⚔️ JFighter**
-JavaFX fighting game
-`Java` `CSS`
+**JFighter**
+A 2D fighting game made with JavaFX, mostly because it seemed like a fun way to learn game logic.
+`Java`
+[repo →](#)
 
 </td>
 </tr>
@@ -108,35 +92,34 @@ JavaFX fighting game
 
 <br>
 
-## `04` — Certifications
+## Currently Learning
+
+<img src="https://img.shields.io/badge/Networking-2d2d44?style=flat-square"/>
+<img src="https://img.shields.io/badge/System_Administration-2d2d44?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-2d2d44?style=flat-square"/>
+<img src="https://img.shields.io/badge/Application_Development-2d2d44?style=flat-square"/>
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Computer_Hardware_Basics-0F2027?style=flat-square" />
-<img src="https://img.shields.io/badge/Foundations_of_IT_Infrastructure-203A43?style=flat-square" />
-<img src="https://img.shields.io/badge/Critical_Infrastructure_Protection-2C5364?style=flat-square" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=devcodee25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF&icon_color=8A8AFF" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcodee25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF" height="160"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcodee25&theme=tokyonight&hide_border=true&background=1e1e2f&ring=8A8AFF&fire=8A8AFF" height="160"/>
 </div>
 
 <br>
 
-## `05` — GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cjptirado&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364&icon_color=2C5364" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjptirado&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0F2027&title_color=2C5364" />
-</div>
-
-<br>
+## Connect
 
 <div align="center">
 
-### Let's Connect
-
-<a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Gmail-cjptirado%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" /></a>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+<a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-devcodee25-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Email-cjptirado%40gmail.com-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-your--profile-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d3d5c,50:2d2d44,100:1e1e2f&height=100&section=footer" width="100%"/>
