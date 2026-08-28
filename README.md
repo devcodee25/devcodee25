@@ -77,9 +77,9 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <div align="center">
 
-<a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-devcodee25-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Email-cjptirado%40gmail.com-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dev-codee-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-your--profile-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/--2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/--2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dev-codee-a070a842a/"><img src="https://img.shields.io/badge/--2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
