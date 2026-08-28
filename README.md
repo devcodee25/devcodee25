@@ -19,7 +19,9 @@ I got into computers the usual way — something broke, I got curious about why,
 
 Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
 
 ## Tech Stack
 
@@ -37,7 +39,9 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="42"/>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
 
 ## What I Like
 
@@ -47,15 +51,27 @@ Programming came later, almost as a side effect of wanting to build small tools 
 - Experimenting with new tools and setups without a specific reason
 - Putting together small apps just to see them work
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
 
 ## Certifications
 
-<img src="https://img.shields.io/badge/Computer_Hardware_Basics-2d2d44?style=flat-square"/>
-<img src="https://img.shields.io/badge/Foundations_of_IT_Infrastructure-2d2d44?style=flat-square"/>
-<img src="https://img.shields.io/badge/Critical_Infrastructure_Protection-2d2d44?style=flat-square"/>
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Computer+Hardware+Basics;Foundations+of+IT+Infrastructure;Critical+Infrastructure+Protection" alt="Certs Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Computer_Hardware_Basics-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
+<img src="https://img.shields.io/badge/IT_Infrastructure_Foundations-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
+<img src="https://img.shields.io/badge/Critical_Infrastructure_Protection-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
 
 ## Currently Learning
 
@@ -64,7 +80,9 @@ Programming came later, almost as a side effect of wanting to build small tools 
 <img src="https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-2d2d44?style=flat-square"/>
 <img src="https://img.shields.io/badge/Application_Development-2d2d44?style=flat-square"/>
 
-<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+</div>
 
 ## Connect
 
