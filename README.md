@@ -15,9 +15,11 @@
 
 ## About Me
 
-I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since. Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
+I've always been the kind of person who wants to know how things work — especially when they stop working. I enjoy building and upgrading PCs, troubleshooting hardware and software problems, and experimenting with different setups just to see what happens.
 
-Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
+I'm also into programming, mostly when I have something I actually want to build. I know my way around JavaScript, PHP, Java, React, and a few other tools, but I enjoy the whole picture more than just writing code — from the hardware underneath to the software running on top of it.
+
+Still learning, still experimenting, and probably still taking something apart.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -79,7 +81,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dev-codee-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-john-pol-a-tirado-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
