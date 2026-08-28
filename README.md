@@ -25,19 +25,42 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## Tech Stack
 
-**Hardware & Systems**
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Hardware.+Software.+Code.+In+that+order." alt="Tech Stack Typing SVG" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="42"/>
-<img src="https://img.shields.io/badge/PC_Building-2d2d44?style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Hardware_Troubleshooting-2d2d44?style=for-the-badge" height="28"/>
+<br>
 
-**Software & Tools**
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="42"/>
+### 🖥️ Hardware & Systems
 
-**Programming**
+<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="42"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/PC_Building-2d2d44?style=flat-square"/><br>
+<img src="https://img.shields.io/badge/Hardware_Troubleshooting-2d2d44?style=flat-square"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🛠️ Software & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="40"/>
+
+</td>
+<td align="center" width="33%">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="40"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -45,11 +68,42 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## What I Like
 
-- Building and upgrading PCs, part by part
-- Digging into a problem until I find what's actually causing it
-- Understanding how systems work under the hood, not just using them
-- Experimenting with new tools and setups without a specific reason
-- Putting together small apps just to see them work
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Curiosity+first.+Everything+else+follows." alt="What I Like Typing SVG" />
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+**🔧 Building & Upgrading**
+Putting PCs together part by part, and improving them over time.
+
+</td>
+<td width="50%">
+
+**🔍 Troubleshooting**
+Digging into a problem until I find what's actually causing it.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**⚙️ Understanding Systems**
+Learning how things work under the hood, not just using them.
+
+</td>
+<td width="50%">
+
+**🧪 Experimenting**
+Trying new tools and setups without needing a specific reason.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -75,10 +129,18 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## Currently Learning
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Always+got+something+new+open+in+a+tab." alt="Currently Learning Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
 <img src="https://img.shields.io/badge/Networking-2d2d44?style=flat-square"/>
 <img src="https://img.shields.io/badge/System_Administration-2d2d44?style=flat-square"/>
 <img src="https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-2d2d44?style=flat-square"/>
 <img src="https://img.shields.io/badge/Application_Development-2d2d44?style=flat-square"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
