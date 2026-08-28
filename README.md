@@ -15,9 +15,11 @@
 
 ## About Me
 
-I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since. Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
+I like computers — not just using them, but figuring out what's going on inside them.
 
-Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
+Most of my fun comes from building and upgrading PCs, troubleshooting hardware and software, messing with Windows, and experimenting with different setups. If something breaks, my first thought is usually "why?" rather than "how do I replace it?"
+
+I also do some programming when an idea gives me a reason to build something. I'm still learning, still breaking things, and occasionally fixing what I broke.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
