@@ -27,7 +27,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 | Category | Tools & Languages |
 |---|---|
-| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows,powershell&theme=dark" height="28"/> <img src="https://img.shields.io/badge/--1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/--2d2d44?style=flat-square&label=🖥️&color=2d2d44" height="28"/> |
+| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows,powershell&theme=dark" height="28"/> <img src="https://img.shields.io/badge/--1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28"/> |
 | **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
@@ -79,7 +79,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dev-codee-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristian-john-pol-a-tirado-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
