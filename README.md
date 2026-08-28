@@ -27,7 +27,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 | Category | Tools & Languages |
 |---|---|
-| **Hardware & Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> |
+| **Hardware & Systems** | 🖥️ PC Hardware · 🔧 Troubleshooting · ⚙️ BIOS/UEFI · 💾 Storage · 🪟 Windows |
 | **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
