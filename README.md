@@ -31,36 +31,11 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🖥️ Hardware & Systems
-
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PC_Building-2d2d44?style=flat-square"/><br>
-<img src="https://img.shields.io/badge/Hardware_Troubleshooting-2d2d44?style=flat-square"/>
-
-</td>
-<td align="center" width="33%">
-
-### 🛠️ Software & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="40"/>
-
-</td>
-<td align="center" width="33%">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="40"/>
-
-</td>
-</tr>
-</table>
+| Category | Tools & Languages |
+|---|---|
+| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="28"/> |
+| **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
+| **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -74,36 +49,12 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-**🔧 Building & Upgrading**
-Putting PCs together part by part, and improving them over time.
-
-</td>
-<td width="50%">
-
-**🔍 Troubleshooting**
-Digging into a problem until I find what's actually causing it.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**⚙️ Understanding Systems**
-Learning how things work under the hood, not just using them.
-
-</td>
-<td width="50%">
-
-**🧪 Experimenting**
-Trying new tools and setups without needing a specific reason.
-
-</td>
-</tr>
-</table>
+| Category | Details |
+|---|---|
+| **Building & Upgrading** | Putting PCs together part by part, and improving them over time |
+| **Troubleshooting** | Digging into a problem until I find what's actually causing it |
+| **Understanding Systems** | Learning how things work under the hood, not just using them |
+| **Experimenting** | Trying new tools and setups without needing a specific reason |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -112,16 +63,16 @@ Trying new tools and setups without needing a specific reason.
 ## Certifications
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Computer+Hardware+Basics;Foundations+of+IT+Infrastructure;Critical+Infrastructure+Protection" alt="Certs Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Computer_Hardware_Basics-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
-<img src="https://img.shields.io/badge/IT_Infrastructure_Foundations-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
-<img src="https://img.shields.io/badge/Critical_Infrastructure_Protection-2d2d44?style=for-the-badge&logo=checkmarx&logoColor=8A8AFF"/>
-
 </div>
+
+<br>
+
+| Category | Certification |
+|---|---|
+| **Hardware** | Computer Hardware Basics |
+| **Infrastructure** | Foundations of IT Infrastructure |
+| **Security** | Introduction to Critical Infrastructure Protection |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -135,12 +86,12 @@ Trying new tools and setups without needing a specific reason.
 
 <br>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Networking-2d2d44?style=flat-square"/>
-<img src="https://img.shields.io/badge/System_Administration-2d2d44?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hardware_%26_Software_Troubleshooting-2d2d44?style=flat-square"/>
-<img src="https://img.shields.io/badge/Application_Development-2d2d44?style=flat-square"/>
-</div>
+| Category | Focus |
+|---|---|
+| **Networking** | IP addressing, subnetting, LAN troubleshooting |
+| **System Administration** | Managing and maintaining systems |
+| **Troubleshooting** | Deeper hardware and software diagnostics |
+| **Development** | Building and improving small applications |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
