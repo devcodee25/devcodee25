@@ -15,11 +15,9 @@
 
 ## About Me
 
-I like computers — not just using them, but figuring out what's going on inside them.
+I got into computers the usual way — something broke, I got curious about why, and I never really stopped poking around inside machines since. Most of my time goes into hardware: building PCs, swapping parts, chasing down weird driver issues, reinstalling Windows for the tenth time this month. Software troubleshooting scratches the same itch — there's something satisfying about narrowing a problem down to its actual cause.
 
-Most of my fun comes from building and upgrading PCs, troubleshooting hardware and software, messing with Windows, and experimenting with different setups. If something breaks, my first thought is usually "why?" rather than "how do I replace it?"
-
-I also do some programming when an idea gives me a reason to build something. I'm still learning, still breaking things, and occasionally fixing what I broke.
+Programming came later, almost as a side effect of wanting to build small tools instead of just using other people's. I'm not chasing frameworks for the sake of it — I pick things up when a project actually needs them.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
@@ -29,7 +27,7 @@ I also do some programming when an idea gives me a reason to build something. I'
 
 | Category | Tools & Languages |
 |---|---|
-| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="28"/> |
+| **Hardware & Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> |
 | **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
@@ -81,7 +79,7 @@ I also do some programming when an idea gives me a reason to build something. I'
 
 <a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cristian-john-pol-a-tirado-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dev-codee-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
