@@ -27,7 +27,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 | Category | Tools & Languages |
 |---|---|
-| **Hardware & Systems** | 🖥️ · 🔧 · ⚙️ · 💾 · 🪟 |
+| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,arduino,bash&theme=dark" height="28"/> |
 | **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
