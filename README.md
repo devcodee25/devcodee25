@@ -49,46 +49,11 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 <br>
 
-## Projects
+## Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**MABULI Leather Works**
-A mobile app I built for a small leather goods business — cross-platform, tied to a live backend.
-`React Native` `Expo` `Firebase`
-[repo →](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Tourism Management System**
-A web system for handling tourism-related records and info, built end to end.
-`PHP` `MySQL` `JavaScript`
-[repo →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Dear Mom**
-A small recipe app — part practice project, part personal.
-`React.js`
-[repo →](#)
-
-</td>
-<td width="50%" valign="top">
-
-**JFighter**
-A 2D fighting game made with JavaFX, mostly because it seemed like a fun way to learn game logic.
-`Java`
-[repo →](#)
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Computer_Hardware_Basics-2d2d44?style=flat-square"/>
+<img src="https://img.shields.io/badge/Foundations_of_IT_Infrastructure-2d2d44?style=flat-square"/>
+<img src="https://img.shields.io/badge/Critical_Infrastructure_Protection-2d2d44?style=flat-square"/>
 
 <br>
 
