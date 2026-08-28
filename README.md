@@ -101,17 +101,6 @@ A 2D fighting game made with JavaFX, mostly because it seemed like a fun way to 
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devcodee25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF&icon_color=8A8AFF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devcodee25&layout=compact&theme=tokyonight&hide_border=true&bg_color=1e1e2f&title_color=8A8AFF" height="160"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devcodee25&theme=tokyonight&hide_border=true&background=1e1e2f&ring=8A8AFF&fire=8A8AFF" height="160"/>
-</div>
-
-<br>
-
 ## Connect
 
 <div align="center">
