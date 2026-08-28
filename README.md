@@ -25,12 +25,6 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## Tech Stack
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Hardware.+Software.+Code.+In+that+order." alt="Tech Stack Typing SVG" />
-</div>
-
-<br>
-
 | Category | Tools & Languages |
 |---|---|
 | **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="28"/> |
@@ -42,12 +36,6 @@ Programming came later, almost as a side effect of wanting to build small tools 
 </div>
 
 ## What I Like
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Curiosity+first.+Everything+else+follows." alt="What I Like Typing SVG" />
-</div>
-
-<br>
 
 | Category | Details |
 |---|---|
@@ -62,12 +50,6 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 ## Certifications
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Computer+Hardware+Basics;Foundations+of+IT+Infrastructure;Critical+Infrastructure+Protection" alt="Certs Typing SVG" />
-</div>
-
-<br>
-
 | Category | Certification |
 |---|---|
 | **Hardware** | Computer Hardware Basics |
@@ -79,12 +61,6 @@ Programming came later, almost as a side effect of wanting to build small tools 
 </div>
 
 ## Currently Learning
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=700&color=8A8AFF&center=true&vCenter=true&width=520&lines=Always+got+something+new+open+in+a+tab." alt="Currently Learning Typing SVG" />
-</div>
-
-<br>
 
 | Category | Focus |
 |---|---|
