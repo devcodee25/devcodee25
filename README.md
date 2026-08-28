@@ -27,7 +27,7 @@ Programming came later, almost as a side effect of wanting to build small tools 
 
 | Category | Tools & Languages |
 |---|---|
-| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows,linux,raspberrypi,arduino,bash&theme=dark" height="28"/> |
+| **Hardware & Systems** | <img src="https://skillicons.dev/icons?i=windows,powershell&theme=dark" height="28"/> <img src="https://img.shields.io/badge/--0071C5?style=flat-square&logo=intel&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/--ED1C24?style=flat-square&logo=amd&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/--76B900?style=flat-square&logo=nvidia&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/--1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/--2d2d44?style=flat-square&label=🌐&color=2d2d44" height="28"/> |
 | **Software & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,firebase&theme=dark" height="28"/> |
 | **Programming** | <img src="https://skillicons.dev/icons?i=js,php,java,react,nodejs,mysql&theme=dark" height="28"/> |
 
