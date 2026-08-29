@@ -6,6 +6,12 @@
 
 <br>
 
+**Cristian John Pol A. Tirado**
+
+📍 **Quezon City, Philippines**
+
+<br>
+
 ![Static Badge](https://img.shields.io/badge/Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44)
 ![Static Badge](https://img.shields.io/badge/BS_Information_Technology-1e1e2f?style=flat-square&label=🎓&labelColor=1e1e2f&color=2d2d44)
 
@@ -59,7 +65,7 @@ Still learning, still experimenting, and probably still taking something apart.
 | **Security** | Introduction to Critical Infrastructure Protection |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000"/>
 </div>
 
 ## Currently Learning
@@ -72,7 +78,7 @@ Still learning, still experimenting, and probably still taking something apart.
 | **Development** | Building and improving small applications |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000"/>
 </div>
 
 ## Connect
