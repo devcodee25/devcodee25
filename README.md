@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:2d2d44,100:3d3d5c&height=180&section=header&text=Cristian%20Tirado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Hardware%20%C2%B7%20Systems%20%C2%B7%20Troubleshooting%20%C2%B7%20Development&descAlignY=62&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2f,50:2d2d44,100:3d3d5c&height=180&section=header&text=Cristian%20John%20Pol%20A.%20Tirado&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Hardware%20%C2%B7%20Systems%20%C2%B7%20Troubleshooting%20%C2%B7%20Development&descAlignY=62&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8A8AFF&center=true&vCenter=true&width=520&lines=Taking+PCs+apart+since+forever.;Fixing+what%27s+broken%2C+building+what%27s+not.;BSIT+student+%7C+Philippines." alt="Typing SVG" />
-
-<br>
-
-**Cristian John Pol A. Tirado**
-
-📍 **Quezon City, Philippines**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=8A8AFF&center=true&vCenter=true&width=520&lines=Taking+PCs+apart+since+forever.;Fixing+what%27s+broken%2C+building+what%27s+not.;BSIT+student+%7C+Quezon+City%2C+Philippines." alt="Typing SVG" />
 
 <br>
 
-![Static Badge](https://img.shields.io/badge/Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44)
+![Static Badge](https://img.shields.io/badge/Quezon_City%2C_Philippines-1e1e2f?style=flat-square&label=📍&labelColor=1e1e2f&color=2d2d44)
 ![Static Badge](https://img.shields.io/badge/BS_Information_Technology-1e1e2f?style=flat-square&label=🎓&labelColor=1e1e2f&color=2d2d44)
 
 </div>
@@ -53,7 +47,7 @@ Still learning, still experimenting, and probably still taking something apart.
 | **Experimenting** | Trying new tools and setups without needing a specific reason |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,50:2d2d44,100:1e1e2f&height=3&width=1000"/>
 </div>
 
 ## Certifications
