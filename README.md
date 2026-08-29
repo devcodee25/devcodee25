@@ -81,7 +81,7 @@ Still learning, still experimenting, and probably still taking something apart.
 
 <a href="https://github.com/devcodee25"><img src="https://img.shields.io/badge/GitHub-2d2d44?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:cjptirado@gmail.com"><img src="https://img.shields.io/badge/Gmail-2d2d44?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/cristian-john-pol-a-tirado-a070a842a/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tirado-cristian-john-pol-a-7906b5429/"><img src="https://img.shields.io/badge/LinkedIn-2d2d44?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
